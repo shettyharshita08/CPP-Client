@@ -13,6 +13,7 @@
 3. Use Winsock2 instead of POSIX for socket operations in your C++ code.
 
 --------For Linux/macOS Setups---------
+
 Install dependencies:
 1. sudo apt update
 2. sudo apt install g++ nlohmann-json-dev
